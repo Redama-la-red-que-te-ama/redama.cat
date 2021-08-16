@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://missatgeria.redama.cat/sitemap.xml

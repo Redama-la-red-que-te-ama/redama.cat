@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://radioenllac.redama.cat/sitemap.xml

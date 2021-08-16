@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://wifi4eu.redama.cat/sitemap.xml

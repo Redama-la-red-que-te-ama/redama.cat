@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9">
+   <url>
+      <loc>https://wifi4eu.redama.cat/</loc>
+      <lastmod>2020-11-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.9</priority>
+   </url>
+   <url>
+      <loc>https://wifi4eu.redama.cat/municipis/node_corrent_altern.htm</loc>
+      <lastmod>2020-11-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.9</priority>
+   </url>
+   <url>
+      <loc>https://wifi4eu.redama.cat/municipis/node_corrent_continu.htm</loc>
+      <lastmod>2020-11-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.9</priority>
+   </url>
+      <url>
+      <loc>https://wifi4eu.redama.cat/municipis/node_mesh_corrent_solar.htm</loc>
+      <lastmod>2020-11-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.9</priority>
+   </url>
+</urlset> 
